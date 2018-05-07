@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "413301747799",
+    "firebase_url": "https://pulmonarycare-5c282.firebaseio.com",
+    "project_id": "pulmonarycare-5c282",
+    "storage_bucket": "pulmonarycare-5c282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413301747799:android:316a436283e1a867",
+        "android_client_info": {
+          "package_name": "com.example.ashirayyan.pulmonarycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413301747799-f2k6aagpa0us51oo8oi3216rhlp5mfl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashirayyan.pulmonarycare",
+            "certificate_hash": "89f51e98bf185c52fe27c4cdd324b2841829d3f5"
+          }
+        },
+        {
+          "client_id": "413301747799-ok3eivb0icohkrls41ifv6hft4fslag4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLkRYRGrsyAYT6zidU2RQYCe2uGx4JiPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413301747799-ok3eivb0icohkrls41ifv6hft4fslag4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
